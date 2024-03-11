@@ -1,0 +1,1 @@
+-force-include-file "simulare_si_achizitie_semnale.c";"c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c" -force-include-file "simulare_si_achizitie_semnale.h";"c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.h" 

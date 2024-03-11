@@ -1,0 +1,95 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:65:5"
+
+[onExit]
+Class="Function"
+Prototype="int onExit(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:85:17"
+
+[nrTreceriZero]
+Class="Function"
+Prototype="int nrTreceriZero(double *vector, int n);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:95:5"
+
+[deblank]
+Class="Function"
+Prototype="char *deblank(char *input);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:105:7"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:120:17"
+
+[onMainPanel]
+Class="Function"
+Prototype="int onMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:204:17"
+
+[onNext]
+Class="Function"
+Prototype="int onNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:222:17"
+
+[onPrev]
+Class="Function"
+Prototype="int onPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:420:17"
+
+[onAplica]
+Class="Function"
+Prototype="int onAplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:614:17"
+
+[onReset]
+Class="Function"
+Prototype="int onReset(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:681:17"
+
+[onKurtosis]
+Class="Function"
+Prototype="int onKurtosis(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:710:17"
+
+[onSkewness]
+Class="Function"
+Prototype="int onSkewness(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:723:17"
+
+[onAnvelopa]
+Class="Function"
+Prototype="int onAnvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:736:17"
+
+[onSwitchPanels]
+Class="Function"
+Prototype="int onSwitchPanels(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:774:17"
+
+[onFrequencyPanel]
+Class="Function"
+Prototype="int onFrequencyPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:797:17"
+
+[onLoadSpectrum]
+Class="Function"
+Prototype="int onLoadSpectrum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:815:17"
+
+[onTick]
+Class="Function"
+Prototype="int onTick(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:829:17"
+
+[onStartSpectruFiltrat]
+Class="Function"
+Prototype="int onStartSpectruFiltrat(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:1013:17"
+
+[onTakePicture]
+Class="Function"
+Prototype="int onTakePicture(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\student\Desktop\1309b-bvb\simulare_si_achizitie_semnale.c:1025:17"
+
